@@ -1,0 +1,2 @@
+# Blgo.github.io
+hexo
